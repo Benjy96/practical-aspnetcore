@@ -4,6 +4,10 @@ Samples for ASP.NET Core 7.0 is available [here](/projects/.net7) (45).
 
 Greetings from Cairo, Egypt. You can [sponsor](https://github.com/sponsors/dodyg) this project [here](https://github.com/sponsors/dodyg). 
 
+## Original URL
+
+https://github.com/dodyg/practical-aspnetcore
+
 ## Previous versions
 
 [5.0](https://github.com/dodyg/practical-aspnetcore/tree/net5.0/), [3.1 LTS](https://github.com/dodyg/practical-aspnetcore/tree/3.1-LTS/), [2.1 LTS](https://github.com/dodyg/practical-aspnetcore/tree/2.1-LTS)
